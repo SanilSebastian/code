@@ -1,0 +1,38 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: white;
+}
+#p1
+{
+    color: yellow;
+}
+#p2
+{
+    color: orange;
+}
+#p3
+{
+    color: tomato;
+}
+#p4
+{
+    color: #59ff5f;
+}
+/*
+fractional number of color
+*/
+.odd
+{
+    color: rgb(81, 226, 226);
+}
+/*rgb chose shade
+*/
+.even
+{
+    color: hsl(283,100%,60%);
+}
+/*u can find ur color bye searching color picker
